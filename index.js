@@ -49,7 +49,7 @@ return function plugin(xray) {
 
   // plugins
   nightmare
-    .on('error', error)
+    .on('error', throw error)
     .goto(xray.url)
 
   // add methods that can be setters w/o arguments
