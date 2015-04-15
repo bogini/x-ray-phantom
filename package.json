@@ -6,7 +6,7 @@
   "author": "Matthew Mueller <matt@lapwinglabs.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lapwinglabs/x-ray-phantom.git"
+    "url": "git://github.com/bogini/x-ray-phantom.git"
   },
   "dependencies": {
     "debug": "^2.1.1",
